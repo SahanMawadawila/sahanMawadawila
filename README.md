@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sahan sithira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahanmawadawila&label=Profile%20views&color=0e75b6&style=flat" alt="sahanmawadawila" /> </p>
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **ML,DL and Computer vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
